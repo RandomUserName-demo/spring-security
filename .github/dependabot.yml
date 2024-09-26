@@ -190,4 +190,4 @@ updates:
     directory: /docs
     schedule:
       interval: daily
-      time: "08:59"
+      time: "09:00"
